@@ -1,0 +1,11 @@
+.landing-container{
+    background-color: rgb(233, 230, 230);
+    height: max-content;
+}
+.meetup-container{
+    padding: 0.5rem 1rem;
+    margin-top: 1rem;
+    display: flex;
+    gap:1rem;
+    flex-wrap: wrap;
+}

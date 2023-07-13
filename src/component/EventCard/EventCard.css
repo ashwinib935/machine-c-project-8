@@ -1,0 +1,19 @@
+.event-card{
+    width: 200px;
+    height: 250px;
+    border-radius: 5px;
+    border: 1px solid;
+    display: flex;
+    flex-direction: column;
+    gap:0.5rem;
+    align-items: flex-start;
+    cursor: pointer;
+}
+h5,p{
+    margin: 0;
+    padding: 0;
+}
+img{
+    width: 200px;
+    height: 150px;
+}
